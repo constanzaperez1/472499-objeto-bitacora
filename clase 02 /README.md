@@ -15,6 +15,9 @@
 * sirve para liquidos en general
 * plastica
 * se vende
+  
+![botella obj](https://github.com/user-attachments/assets/c6f9cfe0-4bfd-4a9f-8707-178e0d45a4cc)
+
 ## encendedor ##
 * duro
 * fuego
@@ -24,5 +27,8 @@
 * tiene un rodamiento o chispero
 * comercial
 * inflamable
-* desechable 
+* desechable
+* emite calor
+  
+![encendedor obj](https://github.com/user-attachments/assets/2dc0ef26-e299-4fc3-9869-288fa7b85c0c)
 
