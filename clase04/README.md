@@ -1,6 +1,6 @@
 ## en esta clase, se presenta un sketch hecho en processing con datos propios recogidos. Incluyo estos datos en un archivo .csv en mi github ##
 
-int[][] datos = {
+``` int[][] datos = {
 {3,2,4,3,2,1,2}, // Martina
 {2,3,2,4,3,2,1}, // Estefanny
 {4,2,3,2,4,2,3}, // Ardillita
@@ -81,7 +81,7 @@ float r = tamaño + ruido;
 float px = x + cos(ang) * r;
 float py = y + sin(ang) * r;
 
-curveVertex(px, py);
+curveVertex(px, py); ```
 }
 
 endShape(CLOSE);
