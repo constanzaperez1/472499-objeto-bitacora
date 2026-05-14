@@ -24,3 +24,6 @@
 # Sketch "tentetivo"
 
 <img width="1503" height="1134" alt="WhatsApp Image 2026-05-14 at 8 46 41 AM" src="https://github.com/user-attachments/assets/5326d7b8-c0b9-4bef-9094-27a29f1fd8db" />
+
+# idea alternativa de fanzine proyecto museo violeta Parra:
+### idea de vinculación y estudio para el fanzine a realizar, es trabajar con  el guitarrón, el cual está presente en muchas obras y archivos del museo Violeta Parra. Investigar cuantas veces se repite en las obras, fotos y archivos del museo el guitarrón, esta sería la base de datos. Con respecto al fanzine, crear imágenes  dibujos del guitarrón, con información de su historia junto a Violeta Parra, la décima dedicada al guitarrón y describiendo su sonido, cuerdas, componentes, etc. La retribución a hambre hambre hambre sería el fanzine en sí, que se harían varias copias para que ellos puedan repartir a sus próximas visitas.
