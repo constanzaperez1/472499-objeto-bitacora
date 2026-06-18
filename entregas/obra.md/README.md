@@ -3,6 +3,12 @@
 ### Portada
 "de cronologias y amores"
 una coleccion de Archivo afectivo 
+
+## integrantes
+constanza perez y anaiz vargas. 
+
+# statement
+archivo construido a partir de cartas de amor recopiladas en distintos momentos, años, personas. y fragmentos de Violeta Parra. A través de la selección, clasificación y reorganización de estos textos, el proyecto explora las formas en que el amor se escribe, se repite y permanece a través del tiempo.
 ### Introducción
 Presentación breve del proyecto, integrantes, pequeña explicación de la recopilación de cartas y de la relación con Violeta Parra, usando decimas para la produccion de esta.
 
